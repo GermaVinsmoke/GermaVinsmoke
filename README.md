@@ -46,13 +46,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=germavinsmoke&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
 </div>
-  
-  <script>
-    function main() {
-      console.log("Test this");
-    }
-    main();
-  </script>
 
 <!--
 **GermaVinsmoke/GermaVinsmoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
