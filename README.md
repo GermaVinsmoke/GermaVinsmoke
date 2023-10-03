@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Germa Vinsmoke</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Dangra</h1>
 
 <div id="header">
   <div align="center">
